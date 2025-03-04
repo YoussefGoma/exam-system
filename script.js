@@ -11,7 +11,7 @@ let questions = [
     {
       title: "What would be the output of `[,,,,].length`?",
       answers: ["4", "5", "undefined", "0"],
-      imageSrc: "images/arrayLength.png",
+      imageSrc: "images/arraylength.png",
       correctAnswer: "4"
     },
     {
