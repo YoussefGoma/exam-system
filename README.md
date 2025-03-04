@@ -57,9 +57,9 @@ A simple and interactive exam system built with HTML, CSS, and JavaScript. Take 
 
   
 
-![Exam System Screenshot](/Images/exam.jpeg)
+![Exam System Screenshot](/images/exam.jpeg)
 
-![Result Screenshot](/Images/result.jpeg)
+![Result Screenshot](/images/result.jpeg)
 
   
 
